@@ -2,7 +2,7 @@
 This repository contains my submission for the pratical assignment for the Programming for Data Analytics assignments 2020.
 
 ## NumPy.Random
-***
+
 The purpose of this assingment was to investigate the NumPy.Random package in NumPy and investigate the use of some of its functions. i
 
 The jupyter notebook numpy.random.ipynb contains detailed explanation of following assignment objectives:
